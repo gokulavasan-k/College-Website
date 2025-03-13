@@ -1,10 +1,4 @@
 # College-Website
-
-## Screenshot
-
-![App Screenshot](./pic11.png)
-
-
 ## Features
 
 - Students can fill out college admission form
